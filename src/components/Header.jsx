@@ -7,7 +7,7 @@ function Header() {
     <header>
         <h1>
             <HighlightIcon />
-            ToDoList
+            MyToDoList
         </h1>
     </header>
   )
