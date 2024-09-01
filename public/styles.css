@@ -84,7 +84,7 @@ header h1{
     position: relative;
     float: right;
     margin-right: 10px;
-    color: #e96913;
+    color: #1da1e3;
     border: none;
     width: 36px;
     height: 36px;
@@ -115,7 +115,7 @@ header h1{
     position: absolute;
     right: 18px;
     bottom: -18px;
-    background: #e96913;
+    background: #1da1e3;
     color: #fff;
     border: none;
     border-radius: 50%;
